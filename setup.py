@@ -1,3 +1,4 @@
+!pip install -U setuptools
 from setuptools import setup
 
 setup(
